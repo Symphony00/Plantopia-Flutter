@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![smartmockups_lhlb9o9u](https://github.com/Symphony00/Plantopia-Flutter/assets/115981065/baf0a794-dc33-4abe-a98f-2c1fac0eaa21)
